@@ -1,1 +1,1 @@
-# hvsgan_bone_suppression
+# bone_suppression_with_pix2pix
